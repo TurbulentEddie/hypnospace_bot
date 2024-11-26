@@ -1,3 +1,5 @@
+This repo is archived as the original owner is no longer interested in maintaining this bot with the shutdown of botsin.space.
+
 # hypnospace_bot
 Mastodon bot that posts quotes from the game Hypnospace Outlaw
 
